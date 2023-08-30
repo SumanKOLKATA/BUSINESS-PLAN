@@ -1,5 +1,6 @@
 # BUSINESS-PLAN
 Business plan of Foodies Knot 
+
 ## BUSINESS PLAN	
 Executive summary	
 Introduction	
